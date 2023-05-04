@@ -9,4 +9,5 @@ Built using Ruby on rails
 - Navigate to Application folder cd - application
 - Install gems, bundle install
 - Run the server - rails s
-- Run the endpoints on a browser or Postman client
+- Clone and run the React Frontend repo - https://github.com/JamesKibathi/Kilimo-School-CRUD
+- You can view the client on a browser or test the endpoints using Postman client
