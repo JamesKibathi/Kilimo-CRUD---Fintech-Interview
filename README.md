@@ -1,7 +1,7 @@
 # Kilimo-CRUD---Fintech-Interview
-KIlimo School CRUD for Software Dev role at Fintech
+Kilimo School CRUD App for Software Dev role at Fintech
 
-Built using Ruby on rails
+API built using Ruby on rails
 
 ##Installation guidelines
 - Make sure you have Ruby installed on your machine
